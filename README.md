@@ -3,5 +3,5 @@ This is a simple implementation of the classic Tic-Tac-Toe game built using Java
 Two-Player Mode: Players alternate turns to place their marks ("X" or "O") on the board.
 Winning Detection: The game checks for winning combinations after each move and announces the winner.
 Draw Detection: If all cells are filled without a winner, the game declares a draw.
-Reset Functionality: A reset button allows players to start a new game without refreshing the page.
+Reset Functionality: A restart button allows players to start a new game without refreshing the page.
 Simple and Clean UI: The game board is designed with minimalistic styling for a clear and easy-to-use interface.
